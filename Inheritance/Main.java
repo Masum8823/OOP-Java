@@ -1,3 +1,17 @@
+// Create a small project with the following classes:
+// ✓ Person Class (Base Class):
+// ✓ Attributes: name, age, address
+// ✓ Methods: constructor to initialize data, displayInfo() to show basic details.
+// ✓ Student Class (Derived Class):
+// ✓ Attributes: roll number, department, marks
+// ✓ Methods: constructor, calculateGrade(), overridden displayInfo()
+// ✓ Teacher Class (Derived Class):
+// ✓ Attributes: teacher ID, subject, salary
+// ✓ Methods: constructor, calculateSalary(){if even teacher id then 5% reduction, for odd add bonus of 15%},overridden displayInfo()
+// ✓ Main Class:
+// ✓ Method: main() to create objects of each classes, take input from user and call
+// methods of each classes.
+
 import java.util.*;
 
 class Person{
