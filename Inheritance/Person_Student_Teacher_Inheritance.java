@@ -100,7 +100,7 @@ class  Teacher extends Person{
   
 }
 
-public class Main {
+public class Person_Student_Teacher_Inheritance {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
