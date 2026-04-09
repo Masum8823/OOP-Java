@@ -5,13 +5,13 @@
 // ✓ A method display() to print book details
 // Create 2 Book objects with different values.
 
-class Parameterized_Constructor {
+class Book {
 
     String title;
     String author;
     double price;
 
-    Parameterized_Constructor(String t, String a, double p) {
+    Book(String t, String a, double p) {
         title = t;
         author = a;
         price = p;
@@ -20,4 +20,16 @@ class Parameterized_Constructor {
     void display() {
         System.out.println("Title: " + title);
         System.out.println("Author: " + author);
+    }
+}
 
+public class Parameterized_Constructor {
+    public static void main(String[] args) {
+
+        Book b1 = new Book("Basic GK Hour", "Alal", 250);
+        Book b2 = new Book("Onneshon Bangla", "Milon", 600);
+
+        b1.display();
+        b2.display();
+    }
+}
