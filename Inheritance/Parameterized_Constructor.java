@@ -11,7 +11,7 @@ class Parameterized_Constructor {
     String author;
     double price;
 
-    Book(String t, String a, double p) {
+    Parameterized_Constructor(String t, String a, double p) {
         title = t;
         author = a;
         price = p;
