@@ -211,6 +211,6 @@ public class Lab_Evaluation2 {
         t1.calculatesalary();
 
         sc.close();
-    
+    //Solution for the Java Inheritance Lab Evaluation.
     }
 }
