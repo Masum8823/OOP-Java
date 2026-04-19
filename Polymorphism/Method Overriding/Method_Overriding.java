@@ -6,3 +6,29 @@
 // In the main method, create an object of Dog.
 // Call the sound() method.
 // Display the output.
+
+// Base class
+class Animal {
+
+    void sound() {
+        System.out.println("Animal makes sound");
+    }
+}
+
+// Derived class
+class Dog extends Animal {
+
+    // Overriding method
+    void sound() {
+        System.out.println("Dog barks");
+    }
+}
+
+// Main class
+public class Method_Overriding {
+    public static void main(String[] args) {
+
+        Dog d1 = new Dog();
+        d1.sound();  // calls overridden method
+    }
+}
