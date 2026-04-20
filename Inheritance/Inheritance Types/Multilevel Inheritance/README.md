@@ -145,7 +145,7 @@ Tommy is weeping
 
 ---
 
-## 💡 Applications (Detailed)
+## 💡 Applications 
 
 ### 1. Academic System
 
@@ -191,7 +191,7 @@ Tommy is weeping
 
 ---
 
-## ⚡ Viva Ready Lines (Simple)
+## ⚡ Viva Ready Lines 
 
 * Multilevel inheritance means inheritance in multiple levels
 * A class can inherit from another class which is already inherited

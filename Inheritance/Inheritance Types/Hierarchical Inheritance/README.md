@@ -144,7 +144,7 @@ Kitty is meowing
 
 ---
 
-## 💡 Applications (Detailed)
+## 💡 Applications 
 
 ### 1. User Role System
 
@@ -195,7 +195,7 @@ Kitty is meowing
 
 ---
 
-## ⚡ Viva Ready Lines (Simple)
+## ⚡ Viva Ready Lines 
 
 * Hierarchical inheritance means one parent and multiple child classes
 * Multiple classes share the same base class
