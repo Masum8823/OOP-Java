@@ -126,7 +126,7 @@ Sum of 2 doubles: 10.0
 
 ---
 
-## 💡 Applications (Detailed)
+## 💡 Applications 
 
 ### 1. Calculator Systems
 
@@ -177,7 +177,7 @@ Sum of 2 doubles: 10.0
 
 ---
 
-## ⚡ Viva Ready Lines (Simple)
+## ⚡ Viva Ready Lines 
 
 * Method overloading means same method name with different parameters
 * It is compile-time polymorphism
