@@ -86,27 +86,30 @@ int v = arr[i].f();
 8
 6
 26
+```
+👉 Last line (26) = সবগুলোর sum  
 
-👉 Last line (26) = সবগুলোর sum
+---
 
-🎯 Key Concepts Summary
-✅ Inheritance
+## 🎯 Key Concepts Summary
 
-class B extends A → B, A এর property/method use করতে পারে
+### ✅ Inheritance
+`class B extends A` → B, A এর property/method use করতে পারে  
 
-✅ Method Overriding
+### ✅ Method Overriding
+B class এ `f()` method নতুনভাবে define করা হয়েছে  
 
-B class এ f() method নতুনভাবে define করা হয়েছে
+### ✅ Polymorphism (Dynamic Binding)
+একই reference (`A[]`) দিয়ে different object handle করা  
 
-✅ Polymorphism (Dynamic Binding)
+### ✅ super Keyword
+- `super(x)` → parent constructor call  
+- `super.f()` → parent method call  
 
-একই reference (A[]) দিয়ে different object handle করা
+---
 
-✅ super Keyword
-super(x) → parent constructor call
-super.f() → parent method call
-🧠 Easy Way to Remember
-A → x + 2
-B → x + 5
-Even → A
-Odd → B
+## 🧠 Easy Way to Remember
+- A → `x + 2`  
+- B → `x + 5`  
+- Even → A  
+- Odd → B  
