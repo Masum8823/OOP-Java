@@ -55,19 +55,31 @@ i	Object Type	Value
 ### 🔸 Step 3: Method Call & Sum
 int v = arr[i].f();
 
-👉 Important বিষয়:
+---
 
-Compiler জানে arr হলো A type
-কিন্তু runtime এ decide হয় কোন method call হবে
-➡️ এটাকে Dynamic Binding / Runtime Polymorphism বলে
-### 🧮 Execution Breakdown
-i	Object	Calculation	Output
-0	A(0)	0 + 2	2
-1	B(1)	1 + 5	6
-2	A(2)	2 + 2	4
-3	B(3)	3 + 5	8
-4	A(4)	4 + 2	6
-### 🖨️ Final Output
+👉 **Important বিষয়:**
+
+- Compiler জানে `arr` হলো A type  
+- কিন্তু runtime এ decide হয় কোন method call হবে  
+➡️ এটাকে **Dynamic Binding / Runtime Polymorphism** বলে  
+
+---
+
+## 🧮 Execution Breakdown
+
+| i | Object | Calculation | Output |
+|--|--|--|--|
+| 0 | A(0) | 0 + 2 | 2 |
+| 1 | B(1) | 1 + 5 | 6 |
+| 2 | A(2) | 2 + 2 | 4 |
+| 3 | B(3) | 3 + 5 | 8 |
+| 4 | A(4) | 4 + 2 | 6 |
+
+---
+
+## 🖨️ Final Output
+
+```text
 2
 6
 4
@@ -77,7 +89,7 @@ i	Object	Calculation	Output
 
 👉 Last line (26) = সবগুলোর sum
 
-### 🎯 Key Concepts Summary
+🎯 Key Concepts Summary
 ✅ Inheritance
 
 class B extends A → B, A এর property/method use করতে পারে
@@ -93,7 +105,7 @@ B class এ f() method নতুনভাবে define করা হয়েছে
 ✅ super Keyword
 super(x) → parent constructor call
 super.f() → parent method call
-### 🧠 Easy Way to Remember
+🧠 Easy Way to Remember
 A → x + 2
 B → x + 5
 Even → A
