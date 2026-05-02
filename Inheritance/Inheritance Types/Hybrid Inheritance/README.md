@@ -181,7 +181,7 @@ Tommy is very friendly
 
 ---
 
-## 💡 Applications (Detailed)
+## 💡 Applications 
 
 ### 1. Smart Device Systems
 
@@ -237,7 +237,7 @@ Tommy is very friendly
 
 ---
 
-## ⚡ Viva Ready Lines (Simple)
+## ⚡ Viva Ready Lines 
 
 * Hybrid inheritance is a combination of different inheritance types
 * Java uses interfaces to achieve hybrid inheritance

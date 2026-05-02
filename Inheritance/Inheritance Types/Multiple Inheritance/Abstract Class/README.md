@@ -129,7 +129,7 @@ Tommy is eating
 
 ---
 
-## 💡 Applications (Detailed)
+## 💡 Applications 
 
 ### 1. Payment Systems
 
@@ -189,7 +189,7 @@ Tommy is eating
 
 ---
 
-## ⚡ Viva Ready Lines (Simple)
+## ⚡ Viva Ready Lines 
 
 * Abstract class cannot be instantiated
 * It can have both abstract and normal methods

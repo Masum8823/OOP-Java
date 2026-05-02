@@ -136,7 +136,7 @@ Dog is playing
 
 ---
 
-## 💡 Applications (Detailed)
+## 💡 Applications 
 
 ### 1. Payment Systems
 
@@ -188,7 +188,7 @@ Dog is playing
 
 ---
 
-## ⚡ Viva Ready Lines (Simple)
+## ⚡ Viva Ready Lines 
 
 * Interface is a blueprint with abstract methods
 * A class implements an interface
