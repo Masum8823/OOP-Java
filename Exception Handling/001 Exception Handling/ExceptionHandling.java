@@ -26,9 +26,7 @@ class TicketProcessor{
     }
     
     System.out.println("Ticket booked sucessfully : " + passengerName);
-    
   }
-  
 }
 
 public class ExceptionHandling {
@@ -58,4 +56,4 @@ public class ExceptionHandling {
         System.out.println("Ticket Book Completed");
       }
     }
-}
+}   
