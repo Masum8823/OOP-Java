@@ -26,9 +26,6 @@ class Son{
   }
 }
 
-
-
-
 public class Copy_Constructor_Lab_E1 {
     public static void main(String[] args) {
       
